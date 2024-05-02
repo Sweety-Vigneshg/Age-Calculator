@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+    <string name="main_url">"file:///android_asset/index.html"</string>
+    <string name="admob_app_id">ca-app-pub-4677097648913981~3457211853</string>
+    <string name="admob_banner_id">ca-app-pub-4677097648913981/5599874059</string>
+    <string name="todo">TODO</string>
+</resources>
